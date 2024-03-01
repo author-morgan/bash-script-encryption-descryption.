@@ -1,5 +1,5 @@
 #!/bin/bash
-
+by : G A U R A B
 # Encryption
 echo "Enter the file name to encrypt:"
 read -r filename
